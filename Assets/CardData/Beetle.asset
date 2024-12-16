@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5a65e6913edbda45a2cd0e8e866efb8, type: 3}
+  m_Name: Beetle
+  m_EditorClassIdentifier: 
+  animalName: Beetle
+  animalSprite: {fileID: 21300000, guid: c28b1b627bb493a408033161fa3deecb, type: 3}
+  description: "Beetles are a group of insects that form the order Coleoptera. The
+    word \"coleoptera\" is from the Greek \u03BA\u03BF\u03BB\u03B5\u03CC\u03C2, koleos
+    meaning \"sheath\" and \u03C0\u03C4\u03B5\u03C1\u03CC\u03BD, pteron meaning \"wing\",
+    thus \"sheathed wing\", because most beetles have two pairs of wings, the front
+    pair, the elytra, being hardened and thickened into a shell-like protection for
+    the rear pair and the beetle's abdomen."
+  flyingType: 1
+  insectType: 1
+  dietType: 0
+  groupBehavior: 0
+  reproductionType: 0
